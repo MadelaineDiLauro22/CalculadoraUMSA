@@ -17,8 +17,8 @@ El proyecto está dividido en tres paquetes principales:
 ## Instalación y Ejecución
 
     1. **Clonar el repositorio**
-   ```bash
        git clone https://github.com/tu_usuario/calculadora-cucatrap.git.
+   ```bash
 
     2. Importar el proyecto en Eclipse
 
@@ -26,6 +26,8 @@ El proyecto está dividido en tres paquetes principales:
        #Seleccionar File > Import.
        #Elegir Existing Projects into Workspace y hacer clic en Next.
        #Seleccionar la carpeta del proyecto clonado y hacer clic en Finish.
+
+```bash
 
     3.Ejecutar la aplicación
 
