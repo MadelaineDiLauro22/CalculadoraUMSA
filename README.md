@@ -15,19 +15,20 @@ El proyecto está dividido en tres paquetes principales:
 - Eclipse IDE
 
 ## Instalación y Ejecución
-  1. **Clonar el repositorio**
+
+    1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/tu_usuario/calculadora-cucatrap.git.
+       git clone https://github.com/tu_usuario/calculadora-cucatrap.git.
 
-  2. Importar el proyecto en Eclipse
+    2. Importar el proyecto en Eclipse
 
-     #Abrir Eclipse.
-     #Seleccionar File > Import.
-     #Elegir Existing Projects into Workspace y hacer clic en Next.
-     #Seleccionar la carpeta del proyecto clonado y hacer clic en Finish.
+       #Abrir Eclipse.
+       #Seleccionar File > Import.
+       #Elegir Existing Projects into Workspace y hacer clic en Next.
+       #Seleccionar la carpeta del proyecto clonado y hacer clic en Finish.
 
-  3.Ejecutar la aplicación
+    3.Ejecutar la aplicación
 
-    #Navegar al paquete controlador en el explorador de proyectos de Eclipse.
-    #Hacer clic derecho sobre la clase CalculadoraController y seleccionar Run As > Java Application.
+      #Navegar al paquete controlador en el explorador de proyectos de Eclipse.
+      #Hacer clic derecho sobre la clase CalculadoraController y seleccionar Run As > Java Application.
 
